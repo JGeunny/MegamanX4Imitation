@@ -1,0 +1,39 @@
+# Unity 자동 생성 파일 제외
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+UserSettings/
+
+# 빌드된 실행 파일 제외
+Build/
+
+# 개인 설정 파일 제외
+*.user
+*.suo
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.cache
+*.log
+*.csproj
+*.unityproj
+*.asset
+*.pidb
+*.sln*
+*.swp
+*.bak
+*.lock
+*.DS_Store
+
+# Visual Studio Code 관련 파일 제외
+.vscode/
+
+# Rider, JetBrains 관련 파일 제외
+.idea/
+
+# MacOS 관련 파일 제외
+.DS_Store
